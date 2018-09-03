@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\bennett\source\repos\physics engine\physics engine\main.cpp(148): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\bennett\source\repos\physics engine\physics engine\main.cpp(160): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\bennett\source\repos\physics engine\physics engine\main.cpp(166): warning C4305: 'argument': truncation from 'double' to 'float'
+  Physics Engine.vcxproj -> C:\Users\bennett\source\repos\Physics Engine\Debug\Physics Engine.exe
